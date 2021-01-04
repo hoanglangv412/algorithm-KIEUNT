@@ -1,0 +1,16 @@
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai8Bubblesort1\bin\Debug\net5.0\bai8Bubblesort1.exe
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai8Bubblesort1\bin\Debug\net5.0\bai8Bubblesort1.deps.json
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai8Bubblesort1\bin\Debug\net5.0\bai8Bubblesort1.runtimeconfig.json
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai8Bubblesort1\bin\Debug\net5.0\bai8Bubblesort1.runtimeconfig.dev.json
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai8Bubblesort1\bin\Debug\net5.0\bai8Bubblesort1.dll
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai8Bubblesort1\bin\Debug\net5.0\ref\bai8Bubblesort1.dll
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai8Bubblesort1\bin\Debug\net5.0\bai8Bubblesort1.pdb
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai8Bubblesort1\obj\Debug\net5.0\bai8Bubblesort1.csprojAssemblyReference.cache
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai8Bubblesort1\obj\Debug\net5.0\bai8Bubblesort1.GeneratedMSBuildEditorConfig.editorconfig
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai8Bubblesort1\obj\Debug\net5.0\bai8Bubblesort1.AssemblyInfoInputs.cache
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai8Bubblesort1\obj\Debug\net5.0\bai8Bubblesort1.AssemblyInfo.cs
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai8Bubblesort1\obj\Debug\net5.0\bai8Bubblesort1.csproj.CoreCompileInputs.cache
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai8Bubblesort1\obj\Debug\net5.0\bai8Bubblesort1.dll
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai8Bubblesort1\obj\Debug\net5.0\ref\bai8Bubblesort1.dll
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai8Bubblesort1\obj\Debug\net5.0\bai8Bubblesort1.pdb
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai8Bubblesort1\obj\Debug\net5.0\bai8Bubblesort1.genruntimeconfig.cache
