@@ -1,0 +1,16 @@
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\Bai3LinearSearch\bin\Debug\net5.0\Bai3LinearSearch.exe
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\Bai3LinearSearch\bin\Debug\net5.0\Bai3LinearSearch.deps.json
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\Bai3LinearSearch\bin\Debug\net5.0\Bai3LinearSearch.runtimeconfig.json
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\Bai3LinearSearch\bin\Debug\net5.0\Bai3LinearSearch.runtimeconfig.dev.json
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\Bai3LinearSearch\bin\Debug\net5.0\Bai3LinearSearch.dll
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\Bai3LinearSearch\bin\Debug\net5.0\ref\Bai3LinearSearch.dll
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\Bai3LinearSearch\bin\Debug\net5.0\Bai3LinearSearch.pdb
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\Bai3LinearSearch\obj\Debug\net5.0\Bai3LinearSearch.csprojAssemblyReference.cache
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\Bai3LinearSearch\obj\Debug\net5.0\Bai3LinearSearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\Bai3LinearSearch\obj\Debug\net5.0\Bai3LinearSearch.AssemblyInfoInputs.cache
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\Bai3LinearSearch\obj\Debug\net5.0\Bai3LinearSearch.AssemblyInfo.cs
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\Bai3LinearSearch\obj\Debug\net5.0\Bai3LinearSearch.csproj.CoreCompileInputs.cache
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\Bai3LinearSearch\obj\Debug\net5.0\Bai3LinearSearch.dll
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\Bai3LinearSearch\obj\Debug\net5.0\ref\Bai3LinearSearch.dll
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\Bai3LinearSearch\obj\Debug\net5.0\Bai3LinearSearch.pdb
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\Bai3LinearSearch\obj\Debug\net5.0\Bai3LinearSearch.genruntimeconfig.cache

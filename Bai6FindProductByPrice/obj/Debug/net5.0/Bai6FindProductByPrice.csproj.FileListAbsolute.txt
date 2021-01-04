@@ -1,0 +1,16 @@
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\Bai6FindProductByPrice\bin\Debug\net5.0\Bai6FindProductByPrice.exe
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\Bai6FindProductByPrice\bin\Debug\net5.0\Bai6FindProductByPrice.deps.json
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\Bai6FindProductByPrice\bin\Debug\net5.0\Bai6FindProductByPrice.runtimeconfig.json
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\Bai6FindProductByPrice\bin\Debug\net5.0\Bai6FindProductByPrice.runtimeconfig.dev.json
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\Bai6FindProductByPrice\bin\Debug\net5.0\Bai6FindProductByPrice.dll
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\Bai6FindProductByPrice\bin\Debug\net5.0\ref\Bai6FindProductByPrice.dll
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\Bai6FindProductByPrice\bin\Debug\net5.0\Bai6FindProductByPrice.pdb
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\Bai6FindProductByPrice\obj\Debug\net5.0\Bai6FindProductByPrice.csprojAssemblyReference.cache
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\Bai6FindProductByPrice\obj\Debug\net5.0\Bai6FindProductByPrice.GeneratedMSBuildEditorConfig.editorconfig
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\Bai6FindProductByPrice\obj\Debug\net5.0\Bai6FindProductByPrice.AssemblyInfoInputs.cache
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\Bai6FindProductByPrice\obj\Debug\net5.0\Bai6FindProductByPrice.AssemblyInfo.cs
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\Bai6FindProductByPrice\obj\Debug\net5.0\Bai6FindProductByPrice.csproj.CoreCompileInputs.cache
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\Bai6FindProductByPrice\obj\Debug\net5.0\Bai6FindProductByPrice.dll
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\Bai6FindProductByPrice\obj\Debug\net5.0\ref\Bai6FindProductByPrice.dll
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\Bai6FindProductByPrice\obj\Debug\net5.0\Bai6FindProductByPrice.pdb
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\Bai6FindProductByPrice\obj\Debug\net5.0\Bai6FindProductByPrice.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Bai6FindProductByPrice/1.0.0": {
+        "runtime": {
+          "Bai6FindProductByPrice.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Bai6FindProductByPrice/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

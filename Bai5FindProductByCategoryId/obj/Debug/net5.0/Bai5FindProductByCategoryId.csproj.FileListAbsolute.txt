@@ -1,0 +1,16 @@
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\Bai5FindProductByCategoryId\bin\Debug\net5.0\Bai5FindProductByCategoryId.exe
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\Bai5FindProductByCategoryId\bin\Debug\net5.0\Bai5FindProductByCategoryId.deps.json
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\Bai5FindProductByCategoryId\bin\Debug\net5.0\Bai5FindProductByCategoryId.runtimeconfig.json
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\Bai5FindProductByCategoryId\bin\Debug\net5.0\Bai5FindProductByCategoryId.runtimeconfig.dev.json
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\Bai5FindProductByCategoryId\bin\Debug\net5.0\Bai5FindProductByCategoryId.dll
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\Bai5FindProductByCategoryId\bin\Debug\net5.0\ref\Bai5FindProductByCategoryId.dll
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\Bai5FindProductByCategoryId\bin\Debug\net5.0\Bai5FindProductByCategoryId.pdb
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\Bai5FindProductByCategoryId\obj\Debug\net5.0\Bai5FindProductByCategoryId.csprojAssemblyReference.cache
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\Bai5FindProductByCategoryId\obj\Debug\net5.0\Bai5FindProductByCategoryId.GeneratedMSBuildEditorConfig.editorconfig
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\Bai5FindProductByCategoryId\obj\Debug\net5.0\Bai5FindProductByCategoryId.AssemblyInfoInputs.cache
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\Bai5FindProductByCategoryId\obj\Debug\net5.0\Bai5FindProductByCategoryId.AssemblyInfo.cs
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\Bai5FindProductByCategoryId\obj\Debug\net5.0\Bai5FindProductByCategoryId.csproj.CoreCompileInputs.cache
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\Bai5FindProductByCategoryId\obj\Debug\net5.0\Bai5FindProductByCategoryId.dll
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\Bai5FindProductByCategoryId\obj\Debug\net5.0\ref\Bai5FindProductByCategoryId.dll
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\Bai5FindProductByCategoryId\obj\Debug\net5.0\Bai5FindProductByCategoryId.pdb
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\Bai5FindProductByCategoryId\obj\Debug\net5.0\Bai5FindProductByCategoryId.genruntimeconfig.cache

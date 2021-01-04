@@ -1,0 +1,16 @@
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\Bai4FindProduct\bin\Debug\net5.0\Bai4FindProduct.exe
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\Bai4FindProduct\bin\Debug\net5.0\Bai4FindProduct.deps.json
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\Bai4FindProduct\bin\Debug\net5.0\Bai4FindProduct.runtimeconfig.json
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\Bai4FindProduct\bin\Debug\net5.0\Bai4FindProduct.runtimeconfig.dev.json
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\Bai4FindProduct\bin\Debug\net5.0\Bai4FindProduct.dll
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\Bai4FindProduct\bin\Debug\net5.0\ref\Bai4FindProduct.dll
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\Bai4FindProduct\bin\Debug\net5.0\Bai4FindProduct.pdb
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\Bai4FindProduct\obj\Debug\net5.0\Bai4FindProduct.csprojAssemblyReference.cache
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\Bai4FindProduct\obj\Debug\net5.0\Bai4FindProduct.GeneratedMSBuildEditorConfig.editorconfig
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\Bai4FindProduct\obj\Debug\net5.0\Bai4FindProduct.AssemblyInfoInputs.cache
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\Bai4FindProduct\obj\Debug\net5.0\Bai4FindProduct.AssemblyInfo.cs
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\Bai4FindProduct\obj\Debug\net5.0\Bai4FindProduct.csproj.CoreCompileInputs.cache
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\Bai4FindProduct\obj\Debug\net5.0\Bai4FindProduct.dll
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\Bai4FindProduct\obj\Debug\net5.0\ref\Bai4FindProduct.dll
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\Bai4FindProduct\obj\Debug\net5.0\Bai4FindProduct.pdb
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\Bai4FindProduct\obj\Debug\net5.0\Bai4FindProduct.genruntimeconfig.cache
