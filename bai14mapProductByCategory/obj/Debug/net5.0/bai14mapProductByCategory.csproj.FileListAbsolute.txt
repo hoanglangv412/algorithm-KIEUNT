@@ -1,0 +1,16 @@
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai14mapProductByCategory\obj\Debug\net5.0\bai14mapProductByCategory.csprojAssemblyReference.cache
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai14mapProductByCategory\obj\Debug\net5.0\bai14mapProductByCategory.GeneratedMSBuildEditorConfig.editorconfig
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai14mapProductByCategory\obj\Debug\net5.0\bai14mapProductByCategory.AssemblyInfoInputs.cache
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai14mapProductByCategory\obj\Debug\net5.0\bai14mapProductByCategory.AssemblyInfo.cs
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai14mapProductByCategory\obj\Debug\net5.0\bai14mapProductByCategory.csproj.CoreCompileInputs.cache
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai14mapProductByCategory\bin\Debug\net5.0\bai14mapProductByCategory.exe
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai14mapProductByCategory\bin\Debug\net5.0\bai14mapProductByCategory.deps.json
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai14mapProductByCategory\bin\Debug\net5.0\bai14mapProductByCategory.runtimeconfig.json
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai14mapProductByCategory\bin\Debug\net5.0\bai14mapProductByCategory.runtimeconfig.dev.json
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai14mapProductByCategory\bin\Debug\net5.0\bai14mapProductByCategory.dll
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai14mapProductByCategory\bin\Debug\net5.0\ref\bai14mapProductByCategory.dll
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai14mapProductByCategory\bin\Debug\net5.0\bai14mapProductByCategory.pdb
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai14mapProductByCategory\obj\Debug\net5.0\bai14mapProductByCategory.dll
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai14mapProductByCategory\obj\Debug\net5.0\ref\bai14mapProductByCategory.dll
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai14mapProductByCategory\obj\Debug\net5.0\bai14mapProductByCategory.pdb
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai14mapProductByCategory\obj\Debug\net5.0\bai14mapProductByCategory.genruntimeconfig.cache
