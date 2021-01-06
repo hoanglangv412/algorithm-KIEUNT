@@ -1,0 +1,16 @@
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai11SortByPrice\bin\Debug\net5.0\bai11SortByPrice.exe
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai11SortByPrice\bin\Debug\net5.0\bai11SortByPrice.deps.json
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai11SortByPrice\bin\Debug\net5.0\bai11SortByPrice.runtimeconfig.json
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai11SortByPrice\bin\Debug\net5.0\bai11SortByPrice.runtimeconfig.dev.json
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai11SortByPrice\bin\Debug\net5.0\bai11SortByPrice.dll
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai11SortByPrice\bin\Debug\net5.0\ref\bai11SortByPrice.dll
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai11SortByPrice\bin\Debug\net5.0\bai11SortByPrice.pdb
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai11SortByPrice\obj\Debug\net5.0\bai11SortByPrice.csprojAssemblyReference.cache
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai11SortByPrice\obj\Debug\net5.0\bai11SortByPrice.GeneratedMSBuildEditorConfig.editorconfig
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai11SortByPrice\obj\Debug\net5.0\bai11SortByPrice.AssemblyInfoInputs.cache
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai11SortByPrice\obj\Debug\net5.0\bai11SortByPrice.AssemblyInfo.cs
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai11SortByPrice\obj\Debug\net5.0\bai11SortByPrice.csproj.CoreCompileInputs.cache
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai11SortByPrice\obj\Debug\net5.0\bai11SortByPrice.dll
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai11SortByPrice\obj\Debug\net5.0\ref\bai11SortByPrice.dll
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai11SortByPrice\obj\Debug\net5.0\bai11SortByPrice.pdb
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai11SortByPrice\obj\Debug\net5.0\bai11SortByPrice.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai12SortByName\bin\Debug\net5.0\bai12SortByName.exe
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai12SortByName\bin\Debug\net5.0\bai12SortByName.deps.json
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai12SortByName\bin\Debug\net5.0\bai12SortByName.runtimeconfig.json
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai12SortByName\bin\Debug\net5.0\bai12SortByName.runtimeconfig.dev.json
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai12SortByName\bin\Debug\net5.0\bai12SortByName.dll
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai12SortByName\bin\Debug\net5.0\ref\bai12SortByName.dll
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai12SortByName\bin\Debug\net5.0\bai12SortByName.pdb
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai12SortByName\obj\Debug\net5.0\bai12SortByName.csprojAssemblyReference.cache
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai12SortByName\obj\Debug\net5.0\bai12SortByName.GeneratedMSBuildEditorConfig.editorconfig
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai12SortByName\obj\Debug\net5.0\bai12SortByName.AssemblyInfoInputs.cache
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai12SortByName\obj\Debug\net5.0\bai12SortByName.AssemblyInfo.cs
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai12SortByName\obj\Debug\net5.0\bai12SortByName.csproj.CoreCompileInputs.cache
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai12SortByName\obj\Debug\net5.0\bai12SortByName.dll
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai12SortByName\obj\Debug\net5.0\ref\bai12SortByName.dll
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai12SortByName\obj\Debug\net5.0\bai12SortByName.pdb
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai12SortByName\obj\Debug\net5.0\bai12SortByName.genruntimeconfig.cache

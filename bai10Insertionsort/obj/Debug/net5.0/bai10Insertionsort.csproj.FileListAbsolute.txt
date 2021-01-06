@@ -1,0 +1,16 @@
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai10Insertionsort\bin\Debug\net5.0\bai10Insertionsort.exe
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai10Insertionsort\bin\Debug\net5.0\bai10Insertionsort.deps.json
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai10Insertionsort\bin\Debug\net5.0\bai10Insertionsort.runtimeconfig.json
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai10Insertionsort\bin\Debug\net5.0\bai10Insertionsort.runtimeconfig.dev.json
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai10Insertionsort\bin\Debug\net5.0\bai10Insertionsort.dll
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai10Insertionsort\bin\Debug\net5.0\ref\bai10Insertionsort.dll
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai10Insertionsort\bin\Debug\net5.0\bai10Insertionsort.pdb
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai10Insertionsort\obj\Debug\net5.0\bai10Insertionsort.csprojAssemblyReference.cache
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai10Insertionsort\obj\Debug\net5.0\bai10Insertionsort.GeneratedMSBuildEditorConfig.editorconfig
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai10Insertionsort\obj\Debug\net5.0\bai10Insertionsort.AssemblyInfoInputs.cache
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai10Insertionsort\obj\Debug\net5.0\bai10Insertionsort.AssemblyInfo.cs
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai10Insertionsort\obj\Debug\net5.0\bai10Insertionsort.csproj.CoreCompileInputs.cache
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai10Insertionsort\obj\Debug\net5.0\bai10Insertionsort.dll
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai10Insertionsort\obj\Debug\net5.0\ref\bai10Insertionsort.dll
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai10Insertionsort\obj\Debug\net5.0\bai10Insertionsort.pdb
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai10Insertionsort\obj\Debug\net5.0\bai10Insertionsort.genruntimeconfig.cache

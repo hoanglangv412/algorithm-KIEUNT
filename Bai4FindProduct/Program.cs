@@ -11,34 +11,28 @@ namespace Bai4FindProduct
     }
     class Program
     {
-        static List<Product> lst = new List<Product>(){
+        static List<Product> lstProd = new List<Product>(){
             new Product(){name="CPU",price=750,quality=10,categoryId=1},
             new Product(){name="RAM",price=50,quality=50,categoryId=2},
             new Product(){name="HDD",price=70,quality=70,categoryId=2},
             new Product(){name="MAIN",price=400,quality=400,categoryId=1}
         };
-        static Product findProduct(List<Product> A,String nameProduct){
-            for (int i=0;i<A.Count;i++)
+        static Product findProduct(List<Product> lstProd,String prodName){
+            for (int i=0;i<lstProd.Count;i++)
             {
-                if(A[i].name == nameProduct){
-                    Product a = new Product();
-                    a.name = A[i].name;
-                    a.price = A[i].price;
-                    a.categoryId = A[i].categoryId;
-                    a.quality = A[i].quality;
-                    return a;
+                if(lstProd[i].name == prodName){
+                    return lstProd[i];
                 }
             }
             return null;
         }
         static void Main(string[] args)
         {
-            string ten;
-            Console.WriteLine("Nhập tên: ");
-            ten = Console.ReadLine();
-            Product pr = findProduct(lst,ten);
+            Console.WriteLine("Insert name of the product : ");
+            String name = Console.ReadLine();
+            Product pr = findProduct(lstProd,name);
             if(pr == null){
-                Console.WriteLine("cant find");
+                Console.WriteLine("cant find product ");
             }
             else
                 Console.WriteLine("Name: " + pr.name +" Price: "+ pr.price +" quality: "+ pr.categoryId +" categoryId: "+ pr.quality);

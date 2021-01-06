@@ -1,0 +1,16 @@
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai13SortByCategoryName\bin\Debug\net5.0\bai13SortByCategoryName.exe
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai13SortByCategoryName\bin\Debug\net5.0\bai13SortByCategoryName.deps.json
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai13SortByCategoryName\bin\Debug\net5.0\bai13SortByCategoryName.runtimeconfig.json
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai13SortByCategoryName\bin\Debug\net5.0\bai13SortByCategoryName.runtimeconfig.dev.json
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai13SortByCategoryName\bin\Debug\net5.0\bai13SortByCategoryName.dll
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai13SortByCategoryName\bin\Debug\net5.0\ref\bai13SortByCategoryName.dll
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai13SortByCategoryName\bin\Debug\net5.0\bai13SortByCategoryName.pdb
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai13SortByCategoryName\obj\Debug\net5.0\bai13SortByCategoryName.csprojAssemblyReference.cache
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai13SortByCategoryName\obj\Debug\net5.0\bai13SortByCategoryName.GeneratedMSBuildEditorConfig.editorconfig
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai13SortByCategoryName\obj\Debug\net5.0\bai13SortByCategoryName.AssemblyInfoInputs.cache
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai13SortByCategoryName\obj\Debug\net5.0\bai13SortByCategoryName.AssemblyInfo.cs
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai13SortByCategoryName\obj\Debug\net5.0\bai13SortByCategoryName.csproj.CoreCompileInputs.cache
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai13SortByCategoryName\obj\Debug\net5.0\bai13SortByCategoryName.dll
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai13SortByCategoryName\obj\Debug\net5.0\ref\bai13SortByCategoryName.dll
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai13SortByCategoryName\obj\Debug\net5.0\bai13SortByCategoryName.pdb
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai13SortByCategoryName\obj\Debug\net5.0\bai13SortByCategoryName.genruntimeconfig.cache

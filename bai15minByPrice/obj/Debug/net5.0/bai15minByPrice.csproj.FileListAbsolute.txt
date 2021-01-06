@@ -1,0 +1,16 @@
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai15minByPrice\bin\Debug\net5.0\bai15minByPrice.exe
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai15minByPrice\bin\Debug\net5.0\bai15minByPrice.deps.json
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai15minByPrice\bin\Debug\net5.0\bai15minByPrice.runtimeconfig.json
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai15minByPrice\bin\Debug\net5.0\bai15minByPrice.runtimeconfig.dev.json
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai15minByPrice\bin\Debug\net5.0\bai15minByPrice.dll
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai15minByPrice\bin\Debug\net5.0\ref\bai15minByPrice.dll
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai15minByPrice\bin\Debug\net5.0\bai15minByPrice.pdb
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai15minByPrice\obj\Debug\net5.0\bai15minByPrice.csprojAssemblyReference.cache
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai15minByPrice\obj\Debug\net5.0\bai15minByPrice.GeneratedMSBuildEditorConfig.editorconfig
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai15minByPrice\obj\Debug\net5.0\bai15minByPrice.AssemblyInfoInputs.cache
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai15minByPrice\obj\Debug\net5.0\bai15minByPrice.AssemblyInfo.cs
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai15minByPrice\obj\Debug\net5.0\bai15minByPrice.csproj.CoreCompileInputs.cache
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai15minByPrice\obj\Debug\net5.0\bai15minByPrice.dll
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai15minByPrice\obj\Debug\net5.0\ref\bai15minByPrice.dll
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai15minByPrice\obj\Debug\net5.0\bai15minByPrice.pdb
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai15minByPrice\obj\Debug\net5.0\bai15minByPrice.genruntimeconfig.cache

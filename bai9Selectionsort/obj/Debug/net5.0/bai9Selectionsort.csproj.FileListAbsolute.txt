@@ -1,0 +1,16 @@
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai9Selectionsort\bin\Debug\net5.0\bai9Selectionsort.exe
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai9Selectionsort\bin\Debug\net5.0\bai9Selectionsort.deps.json
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai9Selectionsort\bin\Debug\net5.0\bai9Selectionsort.runtimeconfig.json
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai9Selectionsort\bin\Debug\net5.0\bai9Selectionsort.runtimeconfig.dev.json
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai9Selectionsort\bin\Debug\net5.0\bai9Selectionsort.dll
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai9Selectionsort\bin\Debug\net5.0\ref\bai9Selectionsort.dll
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai9Selectionsort\bin\Debug\net5.0\bai9Selectionsort.pdb
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai9Selectionsort\obj\Debug\net5.0\bai9Selectionsort.csprojAssemblyReference.cache
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai9Selectionsort\obj\Debug\net5.0\bai9Selectionsort.GeneratedMSBuildEditorConfig.editorconfig
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai9Selectionsort\obj\Debug\net5.0\bai9Selectionsort.AssemblyInfoInputs.cache
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai9Selectionsort\obj\Debug\net5.0\bai9Selectionsort.AssemblyInfo.cs
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai9Selectionsort\obj\Debug\net5.0\bai9Selectionsort.csproj.CoreCompileInputs.cache
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai9Selectionsort\obj\Debug\net5.0\bai9Selectionsort.dll
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai9Selectionsort\obj\Debug\net5.0\ref\bai9Selectionsort.dll
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai9Selectionsort\obj\Debug\net5.0\bai9Selectionsort.pdb
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai9Selectionsort\obj\Debug\net5.0\bai9Selectionsort.genruntimeconfig.cache
