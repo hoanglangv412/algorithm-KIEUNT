@@ -1,0 +1,16 @@
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai22calMonth\bin\Debug\net5.0\bai22calMonth.exe
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai22calMonth\bin\Debug\net5.0\bai22calMonth.deps.json
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai22calMonth\bin\Debug\net5.0\bai22calMonth.runtimeconfig.json
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai22calMonth\bin\Debug\net5.0\bai22calMonth.runtimeconfig.dev.json
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai22calMonth\bin\Debug\net5.0\bai22calMonth.dll
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai22calMonth\bin\Debug\net5.0\ref\bai22calMonth.dll
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai22calMonth\bin\Debug\net5.0\bai22calMonth.pdb
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai22calMonth\obj\Debug\net5.0\bai22calMonth.csprojAssemblyReference.cache
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai22calMonth\obj\Debug\net5.0\bai22calMonth.GeneratedMSBuildEditorConfig.editorconfig
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai22calMonth\obj\Debug\net5.0\bai22calMonth.AssemblyInfoInputs.cache
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai22calMonth\obj\Debug\net5.0\bai22calMonth.AssemblyInfo.cs
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai22calMonth\obj\Debug\net5.0\bai22calMonth.csproj.CoreCompileInputs.cache
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai22calMonth\obj\Debug\net5.0\bai22calMonth.dll
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai22calMonth\obj\Debug\net5.0\ref\bai22calMonth.dll
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai22calMonth\obj\Debug\net5.0\bai22calMonth.pdb
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai22calMonth\obj\Debug\net5.0\bai22calMonth.genruntimeconfig.cache

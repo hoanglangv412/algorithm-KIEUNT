@@ -1,0 +1,16 @@
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai21calSalary\obj\Debug\net5.0\bai21calSalary.csprojAssemblyReference.cache
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai21calSalary\obj\Debug\net5.0\bai21calSalary.GeneratedMSBuildEditorConfig.editorconfig
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai21calSalary\obj\Debug\net5.0\bai21calSalary.AssemblyInfoInputs.cache
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai21calSalary\obj\Debug\net5.0\bai21calSalary.AssemblyInfo.cs
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai21calSalary\obj\Debug\net5.0\bai21calSalary.csproj.CoreCompileInputs.cache
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai21calSalary\bin\Debug\net5.0\bai21calSalary.exe
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai21calSalary\bin\Debug\net5.0\bai21calSalary.deps.json
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai21calSalary\bin\Debug\net5.0\bai21calSalary.runtimeconfig.json
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai21calSalary\bin\Debug\net5.0\bai21calSalary.runtimeconfig.dev.json
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai21calSalary\bin\Debug\net5.0\bai21calSalary.dll
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai21calSalary\bin\Debug\net5.0\ref\bai21calSalary.dll
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai21calSalary\bin\Debug\net5.0\bai21calSalary.pdb
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai21calSalary\obj\Debug\net5.0\bai21calSalary.dll
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai21calSalary\obj\Debug\net5.0\ref\bai21calSalary.dll
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai21calSalary\obj\Debug\net5.0\bai21calSalary.pdb
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai21calSalary\obj\Debug\net5.0\bai21calSalary.genruntimeconfig.cache
