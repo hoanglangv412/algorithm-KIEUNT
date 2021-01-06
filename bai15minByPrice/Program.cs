@@ -9,29 +9,24 @@ namespace bai15minByPrice
         public int quality;
         public int categoryId;
     }
+
     public class Category{
         public int categoryId;
         public string categoryName;
     }
+
     class Program
     {
-        static Product minByPrice(List<Product> prodList){
-            int min = prodList[0].price;
-            Product foundProd = new Product();
-            for(int i = 1;i<prodList.Count;i++){
-                if(prodList[i].price<min){
-                    min = prodList[i].price;
+        static Product minByPrice(List<Product> listProduct){
+            Product min = listProduct[0];
+            for(int i = 1;i<listProduct.Count;i++){
+                if(listProduct[i].price<min.price){
+                    min = listProduct[i];
                 }
             }
-            foreach (Product item in prodList)
-            {
-                if(item.price == min)
-                {
-                    foundProd = item;
-                }
-            }
-            return foundProd;
+            return min;
         }
+
         static void Main(string[] args)
         {
             List<Product> listProduct = new List<Product>(){
@@ -45,13 +40,15 @@ namespace bai15minByPrice
             new Product(){name = "Monitor", price= 120, quality= 28, categoryId= 2},		
             new Product(){name = "Case", price= 120, quality= 28, categoryId= 5}
             };
+
             List<Category> listCategory = new List<Category>(){
             new Category(){categoryId=1,categoryName="Computer"},
             new Category(){categoryId=2,categoryName="Memory"},
             new Category(){categoryId=3,categoryName="Card"},
             new Category(){categoryId=4,categoryName="Accesory"}
             };
-            Console.WriteLine(minByPrice(listProduct).name);
+            
+            Console.WriteLine(minByPrice(listProduct).name + "-" + minByPrice(listProduct).price);
         }
     }
 }

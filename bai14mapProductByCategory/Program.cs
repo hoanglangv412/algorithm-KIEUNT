@@ -9,36 +9,31 @@ namespace bai14mapProductByCategory
         public int quality;
         public int categoryId;
     }
+
     class Category{
         public int categoryId;
         public string categoryName;
     }
+
     class Program
     {
-        static List<Category> sortCategory(List<Category> listCategory){
-            for(int i=0;i<listCategory.Count-1;i++){
-                for(int j=i+1;j<listCategory.Count;j++){
-                    if(listCategory[i].categoryId<listCategory[j].categoryId){
-                        Category temp = listCategory[i];
-                        listCategory[i] = listCategory[j];
-                        listCategory[j] = temp;
-                    }
-                }
-            }
-            return listCategory;
-        }
         static List<Product> mapProductByCategory(List<Product> listProduct,List<Category> listCategory){
-            List<Category> sortedCategorylist = sortCategory(listCategory);
-            List<Product> sortedProduct = new List<Product>();
-            foreach(Category cate in sortedCategorylist){
-                foreach(Product prod in listProduct){
-                    if(prod.categoryId == cate.categoryId){
-                        sortedProduct.Add(prod);
+            List<Product> lstprod = new List<Product>();
+            for(int i=0;i<listProduct.Count;i++){
+                for(int j=0;j<listCategory.Count;j++){
+                    if(listProduct[i].categoryId == listCategory[j].categoryId){
+                        Product newProd = new Product();
+                        newProd.name = listProduct[i].name + " - CategoryName: " + listCategory[j].categoryName;
+                        newProd.price = listProduct[i].price;
+                        newProd.quality = listProduct[i].quality;
+                        newProd.categoryId = listProduct[i].categoryId;
+                        lstprod.Add(newProd);
                     }
                 }
             }
-            return sortedProduct;
+            return lstprod;
         }
+        
         static void Main(string[] args)
         {
              List<Product> listProduct = new List<Product>(){
@@ -58,13 +53,10 @@ namespace bai14mapProductByCategory
             new Category(){categoryId=3,categoryName="Card"},
             new Category(){categoryId=4,categoryName="Accesory"}
             };
-            foreach (Product pro in mapProductByCategory(listProduct,listCategory))
+            
+            foreach (Product prod in mapProductByCategory(listProduct,listCategory))
             {
-                Console.WriteLine(pro.name + "   ");
-            }
-            foreach (Category cate in sortCategory(listCategory))
-            {
-                Console.WriteLine(cate.categoryId + "   ");
+                Console.WriteLine("Product name: " + prod.name + " - Categoryid: " +prod.categoryId);
             }
         }
     }

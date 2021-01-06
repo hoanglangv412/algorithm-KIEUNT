@@ -1,0 +1,16 @@
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai18Fibonacci\bin\Debug\net5.0\bai18Fibonacci.exe
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai18Fibonacci\bin\Debug\net5.0\bai18Fibonacci.deps.json
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai18Fibonacci\bin\Debug\net5.0\bai18Fibonacci.runtimeconfig.json
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai18Fibonacci\bin\Debug\net5.0\bai18Fibonacci.runtimeconfig.dev.json
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai18Fibonacci\bin\Debug\net5.0\bai18Fibonacci.dll
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai18Fibonacci\bin\Debug\net5.0\ref\bai18Fibonacci.dll
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai18Fibonacci\bin\Debug\net5.0\bai18Fibonacci.pdb
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai18Fibonacci\obj\Debug\net5.0\bai18Fibonacci.csprojAssemblyReference.cache
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai18Fibonacci\obj\Debug\net5.0\bai18Fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai18Fibonacci\obj\Debug\net5.0\bai18Fibonacci.AssemblyInfoInputs.cache
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai18Fibonacci\obj\Debug\net5.0\bai18Fibonacci.AssemblyInfo.cs
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai18Fibonacci\obj\Debug\net5.0\bai18Fibonacci.csproj.CoreCompileInputs.cache
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai18Fibonacci\obj\Debug\net5.0\bai18Fibonacci.dll
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai18Fibonacci\obj\Debug\net5.0\ref\bai18Fibonacci.dll
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai18Fibonacci\obj\Debug\net5.0\bai18Fibonacci.pdb
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai18Fibonacci\obj\Debug\net5.0\bai18Fibonacci.genruntimeconfig.cache

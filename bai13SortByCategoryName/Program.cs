@@ -10,23 +10,43 @@ namespace bai13SortByCategoryName
         public int quality;
         public int categoryId;
     }
+
     class Category{
         public int categoryId;
         public string categoryName;
     }
+
     class Program
     {
-        static void sortByCategoryName(List<Product> listProduct,List<Category> listCategory){
-            List<Category> sortedListCategory = listCategory.OrderBy(cate => cate.categoryName).ToList();
-            List<Product> sortedList = new List<Product>();
-            foreach(Category cate in sortedListCategory){
-                foreach(Product prod in listProduct){
-                    if(prod.categoryId == cate.categoryId){
-                        sortedList.Add(prod);
+        static List<Product> sortByCategoryName(List<Product> listProduct,List<Category> listCategory){
+            // List<Category> sortedListCategory = listCategory.OrderBy(cate => cate.categoryName).ToList();
+            List<Product> newListProduct = new List<Product>();
+            
+            for(int i=0;i<listProduct.Count;i++){
+                for(int j=0;j<listCategory.Count;j++){
+                    Product newProduct = new Product();
+                    if(listProduct[i].categoryId == listCategory[j].categoryId){
+                        newProduct.name =  listCategory[j].categoryName+"-"+listProduct[i].name;
+                        newProduct.price = listProduct[i].price;
+                        newProduct.quality = listProduct[i].quality;
+                        newProduct.categoryId = listProduct[i].categoryId;
+                        newListProduct.Add(newProduct);
                     }
                 }
             }
+
+            for(int i=0;i<newListProduct.Count-1;i++){
+                for(int j=i+1;j<newListProduct.Count;j++){
+                    if(string.Compare(newListProduct[i].name[0]+"", newListProduct[j].name[0]+"") == 1){
+                        Product temp = newListProduct[i];
+                        newListProduct[i] = newListProduct[j];
+                        newListProduct[j] = temp;
+                    }
+                }
+            }
+            return newListProduct;
         }
+
         static void Main(string[] args)
         {
             List<Product> listProduct = new List<Product>(){
@@ -46,10 +66,10 @@ namespace bai13SortByCategoryName
             new Category(){categoryId=3,categoryName="Card"},
             new Category(){categoryId=4,categoryName="Accesory"}
             };
-            sortByCategoryName(listProduct,listCategory);
-            foreach (Product pro in listProduct)
+
+            foreach (Product pro in sortByCategoryName(listProduct,listCategory))
             {
-                Console.WriteLine(pro.name + "   ");
+                Console.WriteLine(pro.name);
             }
         }
     }

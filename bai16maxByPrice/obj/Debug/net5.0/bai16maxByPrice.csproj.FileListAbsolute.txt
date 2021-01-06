@@ -1,0 +1,16 @@
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai16maxByPrice\bin\Debug\net5.0\bai16maxByPrice.exe
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai16maxByPrice\bin\Debug\net5.0\bai16maxByPrice.deps.json
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai16maxByPrice\bin\Debug\net5.0\bai16maxByPrice.runtimeconfig.json
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai16maxByPrice\bin\Debug\net5.0\bai16maxByPrice.runtimeconfig.dev.json
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai16maxByPrice\bin\Debug\net5.0\bai16maxByPrice.dll
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai16maxByPrice\bin\Debug\net5.0\ref\bai16maxByPrice.dll
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai16maxByPrice\bin\Debug\net5.0\bai16maxByPrice.pdb
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai16maxByPrice\obj\Debug\net5.0\bai16maxByPrice.csprojAssemblyReference.cache
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai16maxByPrice\obj\Debug\net5.0\bai16maxByPrice.GeneratedMSBuildEditorConfig.editorconfig
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai16maxByPrice\obj\Debug\net5.0\bai16maxByPrice.AssemblyInfoInputs.cache
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai16maxByPrice\obj\Debug\net5.0\bai16maxByPrice.AssemblyInfo.cs
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai16maxByPrice\obj\Debug\net5.0\bai16maxByPrice.csproj.CoreCompileInputs.cache
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai16maxByPrice\obj\Debug\net5.0\bai16maxByPrice.dll
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai16maxByPrice\obj\Debug\net5.0\ref\bai16maxByPrice.dll
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai16maxByPrice\obj\Debug\net5.0\bai16maxByPrice.pdb
+C:\DigiDinos\Algorithm-KIEUNT\algorithm-KIEUNT\bai16maxByPrice\obj\Debug\net5.0\bai16maxByPrice.genruntimeconfig.cache

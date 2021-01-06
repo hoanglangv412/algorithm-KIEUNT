@@ -4,24 +4,27 @@ using System.Collections.Generic;
 namespace bai12SortByName
 {
     class Product{
-            public string name;
-            public int price;
-            public int quality;
-            public int categoryId;
-        }
+        public string name;
+        public int price;
+        public int quality;
+        public int categoryId;
+    }
+
     class Program
     {
-        static void sortByName(List<Product> listProd){
-            for(int i=1;i<listProd.Count;i++){
-                Product key = listProd[i];
+        static void sortByName(List<Product> listProduct){
+            for(int i=1;i<listProduct.Count;i++){
+                Product key = listProduct[i];
                 int j = i-1;
-                while(j>=0 && listProd[j].name.Length<key.name.Length){
-                    listProd[j+1] = listProd[j];
+
+                while(j>=0 && listProduct[j].name.Length<key.name.Length){
+                    listProduct[j+1] = listProduct[j];
                     j--; 
                 }
-                listProd[j+1] = key;
+                listProduct[j+1] = key;
             }
         }
+        
         static void Main(string[] args)
         {
             List<Product> listProduct = new List<Product>(){
